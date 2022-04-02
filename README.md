@@ -118,16 +118,16 @@ plt.show()
 ![alt text](images/zidaneyoloed.png)
 
 ## Módulo Básico: 4
-Implementação do modelo para parâmetros de teste alterados:
-Para este módulo já foi utilizado um dataset custom, que será abordado mais a fundo nos próximos passos.
+* Implementação do modelo para parâmetros de teste alterados:
+Para este módulo já foi utilizado um dataset custom, o Snail Dataset, que será abordado mais a fundo nos próximos passos.
 
-Treino Vanilla:
+Treino Snail Vanilla:
 --img 320 --batch 8 --epochs 40 
 IoU Threshold = 0.2
 
 ![alt text](images/snailVanilla.png)
 
-Treino Vanilla:
+Treino Snail Custom:
 --img 640 --batch 8 --epochs 40 
 IoU Threshold = 0.5
 
