@@ -167,6 +167,7 @@ Speed: 317.6ms pre-process, 76.4ms inference, 3.0ms NMS per image at shape (1, 3
 
 ![alt text](images/snailvanillarun.png)
 
+Podemos perceber que este modelo falhou ao não conseguir detectar sequer um objeto na imagem, isso se dá tanto pela qualidade das imagens utilizadas no treino, quanto ao tamanho dos objetos e seu contraste com o background (por se tratar de uma imagem "desenho").
 
 * BCCD YOLO Dataset:
 Com o fracasso do treinamento do Snail Dataset, o foco da detecção foi alterado para o âmbito biológico, então o novo dataset a ser utilizado foi o bccD (Blood Cell Counting & Detection), contendo 360 imagens no total (240 de treino, 60 de validação e 60 de teste), compreendendo 3 classes de objetos: White Blood Cells, Red Blood Cells e Platelets
