@@ -125,13 +125,13 @@ Treino Snail Vanilla:
 --img 320 --batch 8 --epochs 40 
 IoU Threshold = 0.2
 
-![alt text](images/snailCustom.png)
+![alt text](images/snailVanilla.png)
 
 Treino Snail Custom:
 --img 640 --batch 8 --epochs 40 
 IoU Threshold = 0.5
 
-![alt text](images/snailVanilla.png)
+![alt text](images/snailCustom.png)
 
 Podemos perceber que ao aumentar a resolução de entrada das imagens e o limite de IoU, a predição se tornou um pouco melhor, mesmo assim podemos dizer que este modelo não é capaz de reconhecer e localizar os objetos com facilidade.
 
