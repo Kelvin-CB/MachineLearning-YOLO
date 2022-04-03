@@ -8,7 +8,7 @@
 * Análise do treinamento em tempo real com WandB. 
 
 ## Código e recursos utilizados 
-**Python Version:** 3.9
+**Python Version:** 3.9                                                                                   
 **YOLO Model:** YOLOv5  
 **Libs:** pandas, numpy, matplotlib, pyTorch(CPU to train/GPU to predict), OpenCV                                                          
 **COCO128:** https://www.kaggle.com/datasets/ultralytics/coco128                                                         
