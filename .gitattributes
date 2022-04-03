@@ -1,9 +1,0 @@
-bloodmicroscope.mp4 filter=lfs diff=lfs merge=lfs -text
-snailAugmented.pt filter=lfs diff=lfs merge=lfs -text
-voxarYolo.ipynb filter=lfs diff=lfs merge=lfs -text
-yolov5 filter=lfs diff=lfs merge=lfs -text
-yolov5s.pt filter=lfs diff=lfs merge=lfs -text
-Datasets filter=lfs diff=lfs merge=lfs -text
-bccdAugmented.pt filter=lfs diff=lfs merge=lfs -text
-bccdVanilla.pt filter=lfs diff=lfs merge=lfs -text
-snailVanilla.pt filter=lfs diff=lfs merge=lfs -text
