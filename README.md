@@ -1,6 +1,6 @@
 ### Author: Kelvin Carvalho Bomfim
 
-## Seleção Voxar: Projeto de Machine Learning utilizando Modelo YOLO 
+## Projeto de Machine Learning utilizando Modelo YOLO 
 * Revisão do funcionamento de modelos YOLO, hiperparâmetros, optimização, loss function, taxa de aprendizagem.
 * Implementação do modelo YOLOv5 pré treinado com o dataset COCO128.
 * Treinamento e teste de modelos customizados a partir de diferentes datasets. 
